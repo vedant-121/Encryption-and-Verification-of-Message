@@ -11,6 +11,9 @@ encryption and digital signature.
 For Message digest creation used existing hash algorithm compatible. 
 
 Working of the secure system is be as follows :-
+
+<img src="/screenshot/desc.JPG?raw=true"  width="900" height="400">
+
 ## How to run:-
 
 - First run server.py
@@ -21,6 +24,6 @@ Working of the secure system is be as follows :-
   
 ## Result
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="/screenshot/result.png?raw=true"  width="950" height="550">
 
   
